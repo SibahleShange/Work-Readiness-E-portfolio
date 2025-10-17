@@ -8,6 +8,9 @@ This section demonstrates my understanding of professional workplace conduct, co
 
 **What This Shows:** This  demonstrates my theoretical mastery of: - Professional response to challenging workplace communications - Punctuality standards and meeting etiquette - Confidential information handling and data security - Appropriate personal device usage in workplace settings - Professional protocols for personal time requests - Efficient understanding 
 
+## 🎥 2. Professional Team Interaction Video
+**Context:** Recorded team presentation demonstrating workplace etiquette in action
+
 ---
 
 ## 📝 Reflection (STAR Technique)
