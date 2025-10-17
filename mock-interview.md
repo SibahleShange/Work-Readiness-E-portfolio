@@ -1,15 +1,20 @@
-# 🎥 Mock Interview
-
-This section showcases my ability to respond professionally and confidently to common interview questions in a simulated interview environment.
+# 🎥 Interview Skills
+This section showcases my comprehensive interview preparation, combining theoretical knowledge with practical application to demonstrate my readiness for professional interviews
 
 ---
 
-## 📎 Evidence
+## 📎 My Interview Skills Evidence
+## 1.Interview Assessement 
+**Context:** Formal assessment testing knowledge of interview techniques and best practices
 
-<div style="background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 4px solid #007acc; margin: 15px 0;">
+ What This Evidence Shows:This perfect score (100%) demonstrates my mastery of: - Interview purpose and structure - CAR method for answering behavioral questions - Company research importance and techniques - Best approaches for common questions like "Tell me about yourself" - Strategic ways to discuss weaknesses professionally
+ 
+   <img width="1821" height="691" alt="image" src="https://github.com/user-attachments/assets/08bf9442-ae42-4c78-8337-ca13f7af056a" />
 
-### 🗣️ Mock Interview Video  
-**Date:** October 2025  
+   
+
+### 🗣️ 2.Mock Interview Video  
+ 
 **Context:** This is a recorded mock interview conducted as part of my coursework. I selected six of the most common interview questions — three interpersonal, one behavioral, and two technical — to practice presenting myself professionally and confidently.
 
 🎬 [📎 View My Mock Interview Video](Evidence/Interview_review_222529571_Sibahle_Shange%20(2).mp4)
@@ -27,15 +32,16 @@ This video demonstrates how I prepare for real-world interviews by practicing my
 <div style="background: #fff3cd; padding: 20px; border-radius: 10px; border-left: 4px solid #ffc107;">
 
 ### **SITUATION**  
-As part of my work readiness module, I had to record a mock interview to practice answering both technical and interpersonal questions. I chose questions that are commonly asked by employers, such as “Tell me about yourself,” “Where do you see yourself in five years?”, and “How do you handle conflicts at work?”
+I engaged in comprehensive interview preparation through both theoretical assessment and practical mock interviews. The assessment tested my knowledge of interview fundamentals, while the mock interview allowed me to apply these concepts in a realistic setting.
 
 ### **TASK**  
-My goal was to improve how I communicate under pressure — showing clarity, confidence, and professionalism while giving structured, meaningful answers.
+My goal was to develop both theoretical understanding and practical confidence in interview situations, ensuring I could not only know the right techniques but also apply them effectively under pressure.and also to improve how I communicate under pressure — showing clarity, confidence, and professionalism while giving structured, meaningful answers.
 
 ### **ACTION**  
-- Prepared six questions in advance (3 interpersonal, 1 behavioral, 2 technical)  
-- Practiced responses using the **STAR technique** to make answers more structured and impactful  
-- Recorded multiple takes to improve my tone, body language, and delivery  
+-  Studied interview principles and achieved a perfect 100% score on the formal assessment  
+-  Recorded a mock interview answering six common questions (3 interpersonal, 1 behavioral, 2 technical)
+- Applied CAR and STAR techniques to make answers impactful and professional
+- Practiced multiple takes to refine tone, body language, and delivery
 - Focused on maintaining eye contact, posture, and natural pacing  
 
 ### **RESULT**  
@@ -44,21 +50,14 @@ My goal was to improve how I communicate under pressure — showing clarity, con
 - Learned how important preparation, tone, and body language are during interviews  
 - The practice helped reduce my anxiety and made me more comfortable communicating my strengths
 
-</div>
 
 ---
 
 ## 💡 Key Lessons Learned
 
-<div style="background: #fff3e0; padding: 15px; border-radius: 8px; border-left: 4px solid #ff9800;">
 
 ### 🎓 My Takeaways:
-- **Practice Makes Progress:** Rehearsing answers made me more confident and fluent  
-- **Body Language Matters:** Eye contact, posture, and tone affect how employers perceive you  
-- **STAR Method Works:** Structured answers sound more professional and clear  
-- **Confidence Grows Through Repetition:** Each recording improved my communication skills  
-
-</div>
+From my mock interview experience, I learned that **theory truly informs practice** — understanding interview principles made my practical responses much stronger. My **perfect preparation**, reflected in achieving a 100% assessment score, gave me confidence in my foundational interview knowledge. I became more aware of the importance of **body language**, recognizing how eye contact, posture, and tone can significantly impact how I am perceived professionally. Using structured frameworks such as the **STAR** and **CAR** methods created a sense of confidence and clarity in my answers. Through **repetition and practice**, I improved my fluency, making my communication sound more natural and professional over time. Finally, the formal assessment process helped **validate my skills**, confirming that my interview preparation was comprehensive and effective. This experience has prepared me to perform with confidence in real-world interviews and communicate my strengths clearly.
 
 ---
 
