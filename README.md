@@ -4,11 +4,78 @@
 ---
 
 ## 📋 Table of Contents
-- [💼 Business Communication](./business-communication.md) 
-- [🎤 Interview Skills](./interview-skills.md) 
-- [🎥 Mock Interview](./mock-interview.md) 
-- [🔗 Professional Networking](./professional-networking.md) 
-- [🏢 Workplace Etiquette](./workplace-etiquette.md)
+- [💼 Business Communication](#business-communication)
+- [🎤 Interview Skills](#interview-skills)  
+- [🎥 Mock Interview](#mock-interview)
+- [🔗 Professional Networking](#professional-networking)
+- [🏢 Workplace Etiquette](#workplace-etiquette)
+- [👩🏽‍🎓 About Me](#about-me)
+- [🚀 Contact](#contact)
+
+---
+
+## 💼 Business Communication
+*Professional writing, team documentation, and formal communication skills*
+
+**Evidence Includes:**
+- Professional email correspondence
+- Team meeting minutes and documentation  
+- Business communication assessment
+- Formal project reports
+
+[View Full Section →](#)
+
+---
+
+## 🎤 Interview Skills
+*Preparation strategies, company research, and question response techniques*
+
+**Evidence Includes:**
+- Interview question preparation documents
+- Company research and analysis
+- Interview skills assessment
+- STAR technique practice
+
+[View Full Section →](#)
+
+---
+
+## 🎥 Mock Interview  
+*Practical interview performance and feedback integration*
+
+**Evidence Includes:**
+- Recorded mock interview session
+- Interview feedback and evaluation
+- Self-assessment and improvement plan
+- Response refinement practice
+
+[View Full Section →](#)
+
+---
+
+## 🔗 Professional Networking
+*Building professional relationships and industry connections*
+
+**Evidence Includes:**
+- LinkedIn profile and network
+- Tech event participation records
+- Professional connections established
+- Networking assessment results
+
+[View Full Section →](#)
+
+---
+
+## 🏢 Workplace Etiquette
+*Professional conduct and team collaboration standards*
+
+**Evidence Includes:**
+- Workplace etiquette assessment
+- IOT project presentation video
+- Team collaboration documentation
+- Professional communication examples
+
+[View Full Section →](#)
 
 ---
 
@@ -22,17 +89,9 @@ Hi! I'm **Sibahle Shange**, a passionate Software Engineering student at **Cape 
 
 ---
 
-## 🎯 Portfolio Structure
+## 🎯 Portfolio Overview
 
-This portfolio documents my Work Readiness Training through **evidence-based learning** and **STAR technique reflections** across five key areas:
-
-| Section | Description | Key Evidence |
-|---------|-------------|--------------|
-| [💼 Business Communication](./business-communication.md) | Professional writing and team collaboration | Emails, meeting minutes, assessment |
-| [🎤 Interview Skills](./interview-skills.md) | Preparation and company research | Question prep, research, assessment |
-| [🎥 Mock Interview](./mock-interview.md) | Practical interview performance | Recorded interview, feedback |
-| [🔗 Professional Networking](./professional-networking.md) | Relationship building | Events, LinkedIn, connections |
-| [🏢 Workplace Etiquette](./workplace-etiquette.md) | Professional conduct | Assessment, presentation video |
+This portfolio documents my Work Readiness Training through **evidence-based learning** and **STAR technique reflections** across five key competency areas. Each section contains specific evidence of my professional development and meaningful reflections on my growth journey.
 
 ---
 
@@ -63,7 +122,9 @@ This portfolio follows the **four-step e-portfolio approach**:
 4. **🔗 Connect** - Synthesizing learning across competencies
 
 ---
+
 ## 🌈 Personal Growth Journey
+
 This Work Readiness Programme has transformed my approach to professional development. I've moved from theoretical understanding to practical application, gaining confidence in my ability to:
 
 - Communicate technical concepts clearly to diverse audiences
@@ -72,20 +133,21 @@ This Work Readiness Programme has transformed my approach to professional develo
 - Navigate workplace dynamics with emotional intelligence
 - Build meaningful professional relationships
 
-
-
+---
 
 ## 🚀 Contact
 
 Let's connect and discuss opportunities in software engineering!
 
-- 📧 **Email**: [sshange614@email.com](sshange614@email.com)
-- 💼 **LinkedIn**: [[Connect with me](https://www.linkedin.com/in/sibahleshange/)]
+- 📧 **Email**: sshange614@gmail.com
+- 💼 **LinkedIn**: [Sibahle Shange](https://www.linkedin.com/in/sibahleshange/)
 
 ---
 
 <div align="center">
 
+### *"Ready to code, collaborate, and contribute to innovative technology solutions"*
 
+**Let's build the future together!** ✨
 
 </div>
