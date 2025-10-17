@@ -21,7 +21,7 @@ This section demonstrates my professional communication skills through **written
 
 <img width="800" alt="Professional Email Application" src="https://github.com/user-attachments/assets/51edd664-ce71-481d-8d71-4e58dd34582b" />
 
-[📎 View Email PDF](Evidence/images)
+[📎 View Email PDF](Evidence/images/Professional_emal.png)
 
 <div style="background: #e8f4f8; padding: 15px; border-radius: 8px; margin: 10px 0;">
 <strong>💡 What This Shows:</strong><br/>
