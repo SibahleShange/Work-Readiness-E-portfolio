@@ -6,84 +6,38 @@ This section demonstrates how I prepare for **job interviews** and communicate m
 
 ## 📊 My Interview Preparation Evidence
 
+### 📝 1. Interview Skills Assessment
+**Context:** Formal assessment testing comprehensive knowledge of interview techniques and best practices
+<img width="1839" height="801" alt="image" src="https://github.com/user-attachments/assets/2bc66ea8-d6ab-47f3-952c-cafe61852f6a" />
 
-### 📝 1. Interview Questions Preparation
+**What This Shows:** This  demonstrates my theoretical mastery of: - Primary purposes and structure of job interviews - CAR method for answering behavioral questions effectively - Importance and techniques of company research before interviews - Best approaches for common questions like "Tell me about yourself" - Strategic ways to discuss weaknesses and strengths professionally - Efficient understanding - completed with perfect accuracy
+
+### 📝 2. Interview Questions Preparation
 **Context:** My detailed preparation for technical and behavioral interview questions, including the STAR technique.
 
 [📎 View My Interview Preparation PDF](./Evidence/Interview_Questions_Preparation.pdf)
 
-<div style="background: #e8f4f8; padding: 15px; border-radius: 8px; margin: 10px 0;">
-<strong>💡 What This Shows:</strong><br/>
+**💡 What This Shows:**
 This document proves I take interview preparation seriously. I structured responses for common questions, practiced explaining my technical projects, and prepared to present my skills and motivations confidently.
-</div>
 
-</div>
 
-### 🔍 2. Strategic Company Research
+### 🔍 3. Strategic Company Research
 **Context:** In-depth research on potential employers (Takealot, Amazon, Woolworths, DataBalk) to understand their tech stack, culture, and opportunities.
 
 [📎 View My Company Research PDF](./Evidence/Company_Research.pdf)
 
-<div style="background: #e8f5e8; padding: 15px; border-radius: 8px; margin: 10px 0;">
-<strong>💡 What This Shows:</strong><br/>
+**💡 What This Shows:**
 This research demonstrates that I target companies strategically. I know their **technology stacks**, **company culture**, and **how my skills as a software developer fit**, which helps me ask meaningful questions during interviews.
-</div>
-
-</div>
-
----
-
-## 🏢 Company Research Highlights
-
-
-### 1. Takealot
-Takealot is South Africa’s leading online retailer, offering **Takealot.com**, **Superbalist**, and **Mr D**. Their tech stack includes **Java**, **React**, and **AWS**, which aligns with my skills in Java, React, and database management. I admire their innovation and opportunities for women in tech.
-
-**Questions I Would Ask:**  
-- How does your team handle thousands of daily transactions?  
-- What opportunities exist for junior developers to grow?  
-- How do you incorporate AI and machine learning in your platform?  
-</div>
-
-
-### 2. Amazon
-Amazon’s Cape Town AWS Engineering Hub works on **EC2**, cloud solutions, and **Generative AI tools like Amazon Bedrock**. Their tech stack matches my skills perfectly, and their mentorship programs for women in tech appeal to me.
-
-**Questions I Would Ask:**  
-- How does the Cape Town EC2 team collaborate with other global teams?  
-- What opportunities exist to work with AI tools like Amazon Bedrock?  
-- How can I get involved with the AWS She Builds program?  
-</div>
-
-
-### 3. Woolworths
-Woolworths focuses on retail, digital transformation, and data engineering, using **React**, **C#.NET**, and **AWS/Azure**. My skills can contribute to frontend and data projects, and the company’s initiatives for women in tech are appealing.
-
-**Questions I Would Ask:**  
-- How does the team balance AWS and Azure platforms?  
-- What are the biggest technical challenges in retail transformation?  
-- How does Woolworths support women in tech leadership?  
-</div>
-
-
-### 4. DataBalk
-DataBalk is a software consultancy based in the Netherlands with Cape Town data centers. Their tech stack likely includes **Java, React, MySQL**, offering exposure to diverse client projects. I would confirm opportunities for Cape Town-based software development roles and mentorship.
-
-**Questions I Would Ask:**  
-- Are software development roles available in Cape Town?  
-- Can you share details about current projects and tech stack?  
-- What mentorship and growth opportunities exist for junior developers?  
-</div>
 
 ---
 
 ## 🎯 My Reflection (STAR Technique)
 
 ### **SITUATION**  
-As I prepared for entry-level software engineering interviews, I realized that simply knowing technical skills was not enough. I needed to demonstrate both my technical competence and my ability to communicate effectively with potential employers. Additionally, understanding the companies I was applying to was essential for tailoring my responses and showing genuine interest.
+As I prepared for entry-level software engineering interviews,I realized that success required both theoretical knowledge and practical preparation. I needed to demonstrate both my technical competence and my ability to communicate effectively with potential employers. Additionally, understanding the companies I was applying to was essential for tailoring my responses and showing genuine interest.
 
 ### **TASK**  
-My goal was to create a documnent for interview preparation that combined practicing technical and behavioral questions and performing in-depth company research. I wanted to ensure that I could confidently present my skills, connect my experience to the companies’ needs, and ask meaningful questions during interviews.
+My goal was to create a documnent for  interview readiness through theoretical assessment, structured question preparation also  combine practicing technical and behavioral questions and performing in-depth company research. I wanted to ensure that I could confidently present my skills, connect my experience to the companies’ needs, and ask meaningful questions during interviews.
 
 ### **ACTION**  
 #### To achieve this, I:
@@ -111,7 +65,6 @@ The evidence from my Interview Questions Preparation and Company Research demons
 - Using the STAR technique has shown me that specific examples of my experiences communicate my skills far more effectively than simply making statements. Sharing real situations, actions, and results makes my answers memorable and credible.
 - Company research is equally important. By understanding the organizations I am applying to, I can tailor my responses, show genuine interest, and demonstrate that I am ready to contribute to their goals.  
 - Finally, asking thoughtful questions during interviews is not just polite—it shows curiosity, engagement, and professional awareness. The questions I ask reflect my preparation and can set me apart from other candidates.
-
 
 ---
 
