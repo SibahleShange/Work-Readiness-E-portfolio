@@ -6,12 +6,11 @@ This section demonstrates how I prepare for **job interviews** and communicate m
 
 ## 📊 My Interview Preparation Evidence
 
-<div style="background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 4px solid #007acc; margin: 15px 0;">
 
 ### 📝 1. Interview Questions Preparation
 **Context:** My detailed preparation for technical and behavioral interview questions, including the STAR technique.
 
-[📎 View My Interview Preparation PDF](Evidence/Interview Questions preparation..pdf)
+[📎 View My Interview Preparation PDF](./Evidence/Interview_Questions_Preparation..pdf)
 
 <div style="background: #e8f4f8; padding: 15px; border-radius: 8px; margin: 10px 0;">
 <strong>💡 What This Shows:</strong><br/>
@@ -19,8 +18,6 @@ This document proves I take interview preparation seriously. I structured respon
 </div>
 
 </div>
-
-<div style="background: #f0f0f0; padding: 20px; border-radius: 10px; border-left: 4px solid #28a745; margin: 15px 0;">
 
 ### 🔍 2. Strategic Company Research
 **Context:** In-depth research on potential employers (Takealot, Amazon, Woolworths, DataBalk) to understand their tech stack, culture, and opportunities.
