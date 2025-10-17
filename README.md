@@ -80,7 +80,7 @@
 
 ## 👩🏽‍🎓 About Me
 
-Hi! I'm **Sibahle Shange**, a passionate Software Engineering student at **Cape Peninsula University of Technology**. I'm dedicated to becoming a skilled full-stack developer with expertise in **Java, React, MySQL, and AWS**.
+Hi! I'm **Sibahle Shange**, a passionate Software Engineering student at **Cape Peninsula University of Technology**. I'm dedicated to becoming a skilled full-stack developer with expertise in **Java, React, MySQL, and AWS** and more .
 
 **My Journey:** My interest in technology started with curiosity about how systems work behind the scenes, which evolved into building practical solutions like Automated Traffic Systems and IOT applications.
 
@@ -102,23 +102,6 @@ This portfolio documents my Work Readiness Training through **evidence-based lea
 - **Networking** - Event participation, professional connections
 - **Workplace Etiquette** - Professional conduct, team collaboration
 - **Presentation Skills** - Technical demos, public speaking
-
-### 🛠️ Technical Readiness
-- Project explanation and demonstration
-- Technical interview preparation
-- Professional development planning
-- Industry engagement strategies
-
----
-
-## 📈 Learning Framework
-
-This portfolio follows the **four-step e-portfolio approach**:
-
-1. **📥 Collect** - Gathering artifacts from learning experiences
-2. **✅ Select** - Choosing relevant evidence of growth
-3. **🤔 Reflect** - Using STAR technique for analysis
-4. **🔗 Connect** - Synthesizing learning across competencies
 
 ---
 
@@ -144,9 +127,5 @@ Let's connect and discuss opportunities in software engineering!
 ---
 
 <div align="center">
-
-### *"Ready to code, collaborate, and contribute to innovative technology solutions"*
-
-**Let's build the future together!** ✨
 
 </div>
