@@ -18,6 +18,9 @@ This is a real email I sent to apply for a job. It shows I know how to write pro
 
 3. **Minutes of Meetings**  
    Documented three team meetings (1 Aug, 12 Aug, 25 Aug 2025) where we discussed project setup, progress, challenges, and decisions using clear and structured communication.
+   [Minutes of the Meeting](Evidence/minute_of_the_meeting_Project.pdf)
+
+> These meeting minutes show how we organized our project setup, tracked progress, and assigned responsibilities across the team.
 
 ---
 
