@@ -10,7 +10,7 @@ This section demonstrates how I prepare for **job interviews** and communicate m
 ### 📝 1. Interview Questions Preparation
 **Context:** My detailed preparation for technical and behavioral interview questions, including the STAR technique.
 
-[📎 View My Interview Preparation PDF](./Evidence/Interview_Questions_Preparation..pdf)
+[📎 View My Interview Preparation PDF](./Evidence/Interview_Questions_Preparation.pdf)
 
 <div style="background: #e8f4f8; padding: 15px; border-radius: 8px; margin: 10px 0;">
 <strong>💡 What This Shows:</strong><br/>
