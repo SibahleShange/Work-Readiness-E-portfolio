@@ -4,13 +4,12 @@
 ---
 
 ## 📋 Table of Contents
-- [💼 Business Communication](#business-communication)
-- [🎤 Interview Skills](#interview-skills)  
-- [🎥 Mock Interview](#mock-interview)
-- [🔗 Professional Networking](#professional-networking)
-- [🏢 Workplace Etiquette](#workplace-etiquette)
-- [👩🏽‍🎓 About Me](#about-me)
-- [🚀 Contact](#contact)
+- [💼 Business Communication](./business-communication.md)
+- [🎤 Interview Skills](./interview-skills.md)  
+- [🎥 Mock Interview](./mock-interview.md)
+- [🔗 Professional Networking](./professional-networking.md)
+- [🏢 Workplace Etiquette](./workplace-etiquette.md)
+
 
 ---
 
@@ -23,7 +22,7 @@
 - Business communication assessment
 - Formal project reports
 
-[View Full Section →](#)
+[Click to view Business Communication Section](./business-communication.md)
 
 ---
 
@@ -36,7 +35,7 @@
 - Interview skills assessment
 - STAR technique practice
 
-[View Full Section →](#)
+[Click to view Interview Skills Section](./interview-skills.md)
 
 ---
 
@@ -49,7 +48,7 @@
 - Self-assessment and improvement plan
 - Response refinement practice
 
-[View Full Section →](#)
+[Click to view Mock Interview Section](./mock-interview.md)
 
 ---
 
@@ -62,7 +61,7 @@
 - Professional connections established
 - Networking assessment results
 
-[View Full Section →](#)
+[Click to view Professional Networking Section](./professional-networking.md)
 
 ---
 
@@ -75,7 +74,7 @@
 - Team collaboration documentation
 - Professional communication examples
 
-[View Full Section →](#)
+[Click to view Workplace Etiquette Section](./workplace-etiquette.md)
 
 ---
 
