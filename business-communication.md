@@ -1,6 +1,6 @@
 # 💼 Business Communication
 
-This section demonstrates my professional communication skills through **written communication** and **team collaboration**.Effective business communication is a crucial skill for any professional, whether in a workplace or academic setting. It ensures that ideas are conveyed clearly, tasks are understood, and teams collaborate efficiently. In this section, I demonstrate my ability to communicate professionally through both written correspondence and structured team documentation, showcasing how I adapt my style to different audiences and contexts.
+This section demonstrates my professional communication skills through  both theoretical knowledge and practical application in written communication and team collaboration..Effective business communication is a crucial skill for any professional, whether in a workplace or academic setting. It ensures that ideas are conveyed clearly, tasks are understood, and teams collaborate efficiently. In this section, I demonstrate my ability to communicate professionally through both written correspondence and structured team documentation, showcasing how I adapt my style to different audiences and contexts.
 
 
 ---
@@ -9,13 +9,15 @@ This section demonstrates my professional communication skills through **written
 
 
 
-### Two Examples Showing My Professional Communication Range
+### My Business Communication Evidence
 
-</div>
+## 📝 1.Business Communication Assessment
+**Context:**  Formal assessment testing comprehensive knowledge of business communication principles
+<img width="1800" height="885" alt="image" src="https://github.com/user-attachments/assets/43c600d7-9b88-4b7d-8f3c-2cd7d6455e40" />
 
-<div style="background: #f0f8ff; padding: 20px; border-radius: 10px; border-left: 4px solid #007acc; margin: 15px 0;">
+<strong>💡 What This Shows:</strong><br/> This <strong>perfect 100% score</strong> demonstrates my theoretical mastery of: - Primary purposes and principles of business communication - Non-verbal communication and its importance - Appropriate use of formal language in professional contexts - Recommended tone and etiquette for business emails - Professional standards for virtual meetings and backgrounds - Efficient understanding - completed in under 4 minutes with perfect accuracy </div>
 
-## 📧 1. Internship Application Email
+## 📧 2. Internship Application Email
 **Date:** October 9, 2025  
 **Context:** I wrote this formal email to apply for an IT internship at DataBalk company(9 October 2025). Attached my resume and highlighted my skills and interest professionally.
 
@@ -33,7 +35,7 @@ This real email demonstrates my ability to communicate professionally with compa
 
 <div style="background: #f0f0f0; padding: 20px; border-radius: 10px; border-left: 4px solid #28a745; margin: 15px 0;">
 
-## 📝 2. Team Meeting Minutes
+## 📝 3. Team Meeting Minutes
 **Dates:** August 1, 12, 25, 2025  
 **Context:** This shows Documented  team meetings (1 Aug, 12 Aug, 25 Aug 2025) where we discussed project setup, progress, challenges, and decisions using clear and structured communication.
 
@@ -53,14 +55,16 @@ These notes from my team project meetings prove I can help keep teams organized.
 <div style="background: #fff3cd; padding: 20px; border-radius: 10px; border-left: 4px solid #ffc107;">
 
 ### **SITUATION** 
-I needed to use professional communication in two different situations - applying for an internship with a company and working with my team on a a school project called kiddo health.
+I needed to develop strong business communication skills for professional environments, requiring both theoretical understanding and practical application across different contexts which includes applying for an internship with a company and working with my team on a a school project called kiddo health.
 
 ###  **TASK**
-My goal was to show I can communicate professionally in different settings. For the email, I wanted to make a good impression on a potential employer. For the meeting minutes, I wanted to help my team stay organized and clear about our work.
+My goal was to master business communication principles and demonstrate them through formal assessment, professional email writing, and structured team documentation to show comprehensive competency.So that  I can show how  I can communicate professionally in different settings. For the email, I wanted to make a good impression on a potential employer. For the meeting minutes, I wanted to help my team stay organized and clear about our work.
 
 ###  **ACTION**
-- **For the email:** I used proper business format with a clear subject line, formal greeting, and professional language. I explained why I was interested in the position and attached my resume.
-- **For the meeting minutes:** I helped document our team decisions, track what everyone needed to do, and make sure we all understood our next steps. We recorded dates, attendance, discussions, and action items.
+- Studied business communication principles and achieved a perfect 100% score on the formal assessment
+- **For the email:** Composed a formal internship application email using proper business structure and tone
+- **For the meeting minutes:**  Created structured meeting minutes for software development team coordination
+- Used feedback and best practices to refine my communication approach
 
 ###  **RESULT**
 - The email got me a positive response from the company and showed me that professional writing can open doors.
@@ -74,16 +78,11 @@ My goal was to show I can communicate professionally in different settings. For 
 
 ## 💡 Key Lessons Learned
 
-<div style="background: #fff3e0; padding: 15px; border-radius: 8px; border-left: 4px solid #ff9800;">
-
 ### 🎓 What I Learned About Professional Communication:
+Through my experiences in professional communication, I learned that **theory truly informs practice** — understanding communication principles helps me apply them more effectively in real situations. Maintaining a **professional tone** and choosing the right language creates strong, positive impressions, especially in formal contexts like emails or reports. I discovered that **structure brings clarity**, as well-organized communication such as meeting minutes and emails prevents misunderstandings and keeps teams aligned. Even though written communication lacks voice and body language, **non-verbal cues still matter** — things like formatting, punctuation, and tone all influence how a message is received. I also realized the importance of **adapting my tone** depending on the situation; my approach to writing to an employer differs from how I communicate with teammates. Finally, I learned that **efficiency**
 
-- **Email Precision**: I realized that every word counts in professional emails — being clear and direct is more important than being fancy.  
-- **Documentation Matters**: Writing good meeting notes really helps prevent confusion and keeps the team on the same page.  
-- **Adapting My Tone**: I learned that how I communicate depends on my audience — the way I write to an employer is different from how I write to teammates.  
-- **Professionalism in Details**: Small things, like proper greetings and polite closings, actually make a big impression.
 
-</div>
+
 
 ## 🔗 How This Relates to My Software Engineering Career
 
