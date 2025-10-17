@@ -11,20 +11,28 @@ This section demonstrates my understanding of professional workplace conduct, co
 ## 🎥 2. Professional Team Interaction Video
 **Context:** Recorded team presentation demonstrating workplace etiquette in action
 
+**Evidence Link:** [Watch IOT Presentation Video](./Evidence/IOT_presentation.mp4)
+
+
+**What This Video Shows:**  This presentation demonstrates my practical application of workplace etiquette: - **Professional Communication**: Clear articulation of technical concepts to an audience - **Confident Presentation**: Professional demeanor and body language during delivery - **Team Collaboration**: Ability to represent group work and acknowledge team contributions - **Technical Knowledge**: Understanding and explaining complex IOT concepts clearly - **Audience Engagement**: Professional interaction with lecturers and peers - **Time Management**: Structured presentation within allocated time limit
+
 ---
 
 ## 📝 Reflection (STAR Technique)
 
 **SITUATION**  
-The Work Readiness Programme covered workplace etiquette, teamwork, and behavior in professional environments.
+I needed to develop comprehensive workplace etiquette skills through both theoretical learning and practical application. The workplace etiquette assessment tested my knowledge of professional standards, while the IOT team presentation required me to demonstrate these skills in a real academic setting with lecturers and peers.
 
 **TASK**  
-I needed to demonstrate understanding of appropriate communication, dress code, punctuality, and teamwork in the workplace.
+My goal was to master both the theoretical principles of workplace etiquette and their practical application in professional settings. I needed to understand professional communication protocols, team collaboration standards, and presentation etiquette, then demonstrate these skills effectively in a team presentation environment.
 
 **ACTION**  
-I applied these principles during class discussions, group work, and simulated workplace activities.
+-  I studied workplace etiquette principles and achieved strong performance on the formal assessment, demonstrating understanding of professional communication, punctuality, confidentiality, and appropriate workplace behavior
+-  I applied these principles during our IOT team presentation by maintaining professional communication, demonstrating confident presentation skills, and showing respect for both team members and the audience
+-   I worked effectively with my team to prepare and deliver the presentation, ensuring we represented our project professionally while acknowledging everyone's contributions
+  
 
 **RESULT**  
-I now understand how to maintain professionalism, respect diversity, and contribute effectively to a workplace culture.
+Through this comprehensive approach to workplace etiquette, I have developed both proven theoretical knowledge and demonstrated practical skills that prepare me for professional environments. The assessment confirmed my understanding of essential workplace principles, while the IOT presentation showcased my ability to apply these etiquette standards in real-world situations. This experience has significantly enhanced my professional confidence in communicating and collaborating effectively within team settings, while also improving my presentation skills for delivering technical content to diverse audiences. Most importantly, I now feel genuinely prepared to contribute positively to workplace cultures, having gained a deep appreciation for respecting diverse perspectives and collaborating professionally to achieve common goals in software engineering environments..
 
 [⬅ Back to Home](./README.md)
