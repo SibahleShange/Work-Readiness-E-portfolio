@@ -80,7 +80,7 @@ This Work Readiness Programme has transformed my approach to professional develo
 Let's connect and discuss opportunities in software engineering!
 
 - 📧 **Email**: [sshange614@email.com](sshange614@email.com)
-- 💼 **LinkedIn**: [[Connect with me](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sibahleshange/))
+- 💼 **LinkedIn**: [[Connect with me](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sibahleshange/))]
 
 ---
 
